@@ -1,0 +1,27 @@
+#domain
+hospital
+#levelname
+SAsoko3_05
+#colors
+blue: 0, A
+red: 1, B
+cyan: 2, C
+purple: 3, D
+green: 4, E
+#initial
++++++++
++0A   +
++1B   +
++2C   +
++3D   +
++4E   +
++++++++
+#goal
++++++++
++    A+
++    B+
++    C+
++    D+
++    E+
++++++++
+#end
