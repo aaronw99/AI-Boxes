@@ -1,3 +1,6 @@
 .idea
 searchclient/searchclient_python
 searchclient/*.class
+searchclient/searchclient_java/.DS_Store
+searchclient/searchclient_java/searchclient/State$1.class
+searchclient/searchclient_java/searchclient/*.class
