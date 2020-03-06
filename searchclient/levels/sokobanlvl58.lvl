@@ -1,0 +1,25 @@
+#domain
+hospital
+#levelname
+SokobanLevel58
+#colors
+blue: 0, S
+#initial
+ ++++++++
+ +++  +++
+ +++   ++
+ +++S   +
+ +++  + +
+ + SS  0+
+ +    +++
+ ++++++++
+#goal
+ ++++++++
+ +++  +++
+ +++   ++
+ +++    +
+ +++ S+ +
+ + S S  +
+ +    +++
+ ++++++++
+#end
